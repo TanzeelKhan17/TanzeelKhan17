@@ -3,7 +3,7 @@
     <img src=""/>  
     <br/><br/>   
     <div align="center">      
-    <a href="https://www.linkedin.com/in/manish-parashar-3b119a243">
+    <a href="[https://www.linkedin.com/in/manish-parashar-3b119a243](https://www.linkedin.com/in/tanzeel-khan-95a013261)">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=LinkedIn&message= &style=flat&logo=linkedin&logoColor=939B62&labelColor=black">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://youtube.com/@manishparashar4935">
