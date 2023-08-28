@@ -1,6 +1,6 @@
 
 <h2 align="center"></h2> 
-    <img src="./giphy.gif"/>  
+    <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>  
     <br/><br/>   
     <div align="center">      
     <a href="https://www.linkedin.com/in/manish-parashar-3b119a243">
