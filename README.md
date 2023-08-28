@@ -6,12 +6,12 @@
     <a href="https://www.linkedin.com/in/tanzeel-khan-95a013261">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=LinkedIn&message= &style=flat&logo=linkedin&logoColor=939B62&labelColor=black">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://youtube.com/@manishparashar4935">
+<!--     <a href="https://youtube.com/@manishparashar4935">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=youtube&message= &style=flat&logo=youtube&logoColor=939B62&labelColor=black">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp; 
-    <a href="https://instagram.com/manish_parashar__?igshid=MzNlNGNkZWQ4Mg==">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;  -->
+<!--     <a href="https://instagram.com/manish_parashar__?igshid=MzNlNGNkZWQ4Mg==">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=instagram&message= &style=flat&logo=instagram&logoColor=939B62&labelColor=black">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>&nbsp;&nbsp;&nbsp;&nbsp; -->
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="https://manishparashar0.github.io/ManishParashar0/">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=Project&message= &style=flat&&logo=amp&logoColor=939B62&labelColor=black">
