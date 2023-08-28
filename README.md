@@ -1,7 +1,7 @@
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />
     <h2 align="center"></h2> 
-    <img aling="center" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>  
+    <img aling="center" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"  width="100%"  />  
     <br/>
 
 <br />
